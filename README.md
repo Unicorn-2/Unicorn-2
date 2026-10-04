@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sidharudha Metri 👋
 
-<!--
-**Unicorn-2/Unicorn-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mechanical Engineer | Product Development Engineer | M.Tech in AI & Machine Learning
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Mechanical Engineering professional working in Product Development and currently pursuing an M.Tech in AI & Machine Learning.
+
+My interests include:
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- AI for Manufacturing
+- Engineering Simulation (FEA)
+- Surrogate Modeling
+- Data Analytics
+
+## Current Projects
+
+- Casting Defect Detection using Computer Vision
+- Economizer Damper Blade Surrogate Modeling using Kriging (GPR)
+- Engineering Simulation and Optimization Studies
+
+## Tools & Technologies
+
+- Python
+- TensorFlow
+- Scikit-Learn
+- MATLAB
+- ANSYS
+- Git & GitHub
+``
